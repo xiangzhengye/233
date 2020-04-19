@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>haha</title>
+<title>网页制作</title>
 </head>
 <body>
 <img src="23.jpg"/>
