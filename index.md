@@ -1,11 +1,12 @@
-
+<!DOCTYPE html>
+<html>
 <head>
 <meta charset="UTF-8">
-<title>烨哥语录</title>
+<title>haha</title>
 </head>
 <body>
-  <img src="23.jpg"/>
+<img src="23.jpg"/>
 <h1>悟道</h1>
 <p>天人嫣有两般义，道不虚行只在人。</p>
 </body>
-
+</html>
